@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Wanita.unity
+- path: Assets/Scenes/Layar2.unity
   isLoaded: 1
   isActive: 1
