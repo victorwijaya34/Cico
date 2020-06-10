@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Layar2.unity
+- path: Assets/Scenes/Layar1A.unity
   isLoaded: 1
   isActive: 1

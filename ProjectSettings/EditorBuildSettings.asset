@@ -23,4 +23,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Layar2.unity
     guid: ab3795a530809da498bd3e299707ef2e
+  - enabled: 1
+    path: Assets/Scenes/Layar1A.unity
+    guid: 1cda550ddb72e034695d3f650419e0ca
+  - enabled: 1
+    path: Assets/Scenes/Layar1B.unity
+    guid: 47895cd4f8dab734cb9f3925c5011ca3
+  - enabled: 1
+    path: Assets/Scenes/Layar2A.unity
+    guid: d3fdce5bbfbd1cb47bde1b664e3d710e
+  - enabled: 1
+    path: Assets/Scenes/Layar2B.unity
+    guid: 7653d356909ab814c831e67178654e6b
   m_configObjects: {}
